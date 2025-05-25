@@ -1,1 +1,15 @@
+title: "Mein Portfolio"
+description: "Eine minimalistische Seite für meine Projekte und Artworks."
+url: "https://<dein-username>.github.io"
+baseurl: "" # Wenn deine Seite in einem Unterverzeichnis liegt, gib hier das Verzeichnis an, z. B. "/portfolio".
+
 theme: minima
+
+nav_links:
+  - title: "Startseite"
+    url: "/index.md"
+  - title: "Projekte"
+    url: "/projects.md"
+  - title: "Kontakt"
+    url: "/#kontakt"
+
