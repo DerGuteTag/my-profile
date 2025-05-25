@@ -35,5 +35,5 @@ Willkommen zu meinem Portfolio! 🌟
 
 1. **Website klonen**:
    ```bash
-   git clone https://github.com/<dein-username>/<repo-name>.git
+   git clone https://github.com/DerGuteTag/my-profile.git
 
