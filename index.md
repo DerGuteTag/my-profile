@@ -12,10 +12,18 @@ Ich bin [Dein Name], ein begeisterter Entwickler/Designer/Kreativer. Diese Seite
 - [Twitter](https://twitter.com/)
 - [LinkedIn](https://linkedin.com/)
 
+---
+
+## Projekte
+
+[**Zu meinen Projekten ➡️**](projects.md)
+
+---
+
 ## Kontakt
 
 Du kannst mich per [E-Mail](mailto:dein.email@example.com) erreichen.
 
 ---
 
-Danke für deinen Besuch! 😊
+<link rel="stylesheet" href="style.css">
