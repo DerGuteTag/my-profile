@@ -4,7 +4,7 @@ Willkommen auf meiner minimalistischen Profilseite! 👋
 
 ## Über mich
 
-Ich bin [Dein Name], ein begeisterter Entwickler/Designer/Kreativer. Diese Seite dient als meine digitale Visitenkarte.
+Ich bin Matti, ein begeisterter Entwickler/Designer/Kreativer. Diese Seite dient als meine digitale Visitenkarte.
 
 ## Meine Links
 
